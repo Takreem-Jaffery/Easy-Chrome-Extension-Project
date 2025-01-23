@@ -1,0 +1,11 @@
+{
+    "name":"Upcoming New York Concerts",
+    "version":"1.0.0",
+    "description":"Get notified when your favorite artists are playing in New York City.",
+    "manifest_version":3,
+    "author": "Takreem Jaffery",
+    "actions":{
+        "default_popup":"index.html",
+        "default_title":"Upcoming New York Concerts"
+    }
+} 
